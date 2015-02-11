@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This about page was written from the command line, and pushed to the server in such as easy way that my mind got blown away.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I am not sure how long I will be gone before my legs will hit the ground.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Contact me if you must.
