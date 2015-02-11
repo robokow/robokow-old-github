@@ -15,3 +15,5 @@ I mostly use github as an instant messaging platform. And issue tracking from ti
 robino@leno:~/sites$ ssh -T git@github.com
 Hi robokow! You've successfully authenticated, but GitHub does not provide shell access.
 </code>
+
+This is pretty neat!
