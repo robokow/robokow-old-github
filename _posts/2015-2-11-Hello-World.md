@@ -9,3 +9,9 @@ I mostly use github as an instant messaging platform. And issue tracking from ti
 <ul><li>Figure out how not to type in username-pw each time I write something</li>
 <li>How can I use gedit for example and commit posts with just one shortcut?</li>
 </ul>
+
+<h3>Done!</h3>
+<code>
+robino@leno:~/sites$ ssh -T git@github.com
+Hi robokow! You've successfully authenticated, but GitHub does not provide shell access.
+</code>
