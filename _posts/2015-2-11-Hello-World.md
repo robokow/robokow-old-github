@@ -16,4 +16,4 @@ robino@leno:~/sites$ ssh -T git@github.com
 Hi robokow! You've successfully authenticated, but GitHub does not provide shell access.
 </code>
 
-This is pretty neat! Without filling in any passwords or username been able to make a change to this blogpost! Still need to figure out the other step.
+This is pretty neat! Without filling in any passwords or username been able to make a change to this blogpost! Still need to figure out the other step, because three cli commands is still quite a lot.
