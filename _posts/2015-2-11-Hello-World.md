@@ -18,4 +18,4 @@ Hi robokow! You've successfully authenticated, but GitHub does not provide shell
 
 This is pretty neat! Without filling in any passwords or username been able to make a change to this blogpost! Still need to figure out the other step, because three cli commands is still quite a lot.
 
-<strong>update: got it down two commands. <code>git commit -a -m "edit post" && git push origin master</code>
+<strong>update: got it down two commands. <code>git commit -a -m "edit post" && git push origin master</code>. So after I save a new file, I just have to hit this command in the terminal and that's it to update or publish a new post. Nice :-)
