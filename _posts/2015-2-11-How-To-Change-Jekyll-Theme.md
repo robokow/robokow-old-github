@@ -20,4 +20,6 @@ With Jekyll Bootstrap it's pretty straightforward to change your theme. All you 
 There is not many <a href="http://themes.jekyllbootstrap.com/">themes on bootstrap</a> (yet) but its ease of use is really nice.
 
 <h2>Make a new installation</h2>
-To use themes that are not included in Bootstrap (well, that's most of them) you need to merge or migrate your existing posts to a new installation (i think)
+To use themes that are not included in Bootstrap (well, that's most of them) you need to merge or migrate your existing posts to a new installation (i think). 
+
+(<small>note: It is at this point that I encounter <a href="http://ruhoh.com/">http://ruhoh.com/</a> which is much more easier to deploy with different themes</small>)
