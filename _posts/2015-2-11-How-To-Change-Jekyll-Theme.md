@@ -12,9 +12,10 @@ There is al kinds of nice Jekyll themes, most of them clean, minimal and functio
 <ul><li>Make sure you've got Jekyll <a href="http://jekyllrb.com/docs/installation/">installed</a>.</li>
 <li>For easy testing check <a href="http://localhost:4000">localhost:4000</a> if you've got your site working locally.</li><li> If that's not the case, just type <code>jekyll serve</code> while in your site's directory</li> </ul>
 
-This is how far I got so far,
+<h3>Jekyll Bootstrap</h3>
+With Jekyll Bootstrap it's pretty straightforward to change your theme. All you need to do is <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">install it</a>. Dir into the installation and change the theme with this one simple command.
 
-checking 
+<code>rake theme:install git="https://github.com/jekyllbootstrap/theme-the-minimum.git" --trace</code>
 
-<ul><li>http://jekyllbootstrap.com/usage/jekyll-quick-start.html</li>
-</ul>
+There is not many <a href="http://themes.jekyllbootstrap.com/">themes on bootstrap</a> (yet) but its ease of use is really nice. 
+
