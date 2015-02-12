@@ -31,7 +31,7 @@ Fork a new theme into your Git repository. Then clone it. I am choosing <a href=
 <li>Remove any custom stuff that came along with the new theme</li></ul>
 
 
-Once everything is completed,  Renaming Didn't work
+Once everything is completed,  Renaming Didn't work. Trying to work this out.
 
 
 (<small>note: It is at this point that I encounter <a href="http://ruhoh.com/">http://ruhoh.com/</a> which seems to be a lot easier to deploy with different themes</small>)
