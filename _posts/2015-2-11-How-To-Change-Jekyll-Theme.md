@@ -17,6 +17,7 @@ With Jekyll Bootstrap it's pretty straightforward to change your theme. All you 
 
 <code>rake theme:install git="https://github.com/jekyllbootstrap/theme-the-minimum.git" --trace</code>
 
-There is not many <a href="http://themes.jekyllbootstrap.com/">themes on bootstrap</a> (yet) but its ease of use is really nice. 
+There is not many <a href="http://themes.jekyllbootstrap.com/">themes on bootstrap</a> (yet) but its ease of use is really nice.
 
-<
+<h2>Make a new installation</h2>
+To use themes that are not included in Bootstrap (well, that's most of them) you need to merge or migrate your existing posts to a new installation (i think)
