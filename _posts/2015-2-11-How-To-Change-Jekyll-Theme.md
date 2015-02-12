@@ -20,14 +20,17 @@ With Jekyll Bootstrap it's pretty straightforward to change your theme. All you 
 There is not many <a href="http://themes.jekyllbootstrap.com/">themes on bootstrap</a> (yet) but its ease of use is really nice. And of course, you can also clone existing themes and make them <a href="http://jekyllbootstrap.com/api/theme-api.html">available</a> for Bootstrap yourself.
 
 <h2>Make a new installation</h2>
-To use themes that are not included in Bootstrap (well, that's most of them) you need to merge or migrate your existing posts to a new installation (i think). The general approach is to install Jekyll with the theme you want, and to migrate your posts and settings into your new installation.
+To use themes that are not included in Bootstrap (well, that's most of them) you could merge or migrate your existing posts and other custom stuff to a new installation.
 
-So let's clone a new theme first, we're gonna take Hyde. Because that one goes well with Jekyll of course.
-<code>git clone https://github.com/poole/hyde</code>
+Fork a new theme into your Git repository. Then clone it. I am choosing <a href="https://github.com/poole/hyde">Hyde</a> here, because that one goes well with Jekyll. Once done I took the following steps:
 
-Then copy your _posts into the new directory. Copy also the file about.md and the _config.yml. If you have made any more customisations, then copy those too into the new directory. Check in your localhost if you've got it working, and see what else needs to be changed or customized. You probably have to remove some posts, and edit some other customized stuff in the sidebar or elsewhere. 
+<ul><li>Removed posts directory and Copied _posts from the old installation into the new directory. And delete any other posts that came along with the new theme.
+<li>Copy also the file about.md and the _config.yml</li> 
+<li>If you have made any more customisations, then copy those too into the new directory as well</li> 
+<li>Remove any custom stuff that came along with the new theme</li></ul>
 
-Once everything is completed, 
+
+Once everything is completed,  Renaming Didn't work
 
 
 (<small>note: It is at this point that I encounter <a href="http://ruhoh.com/">http://ruhoh.com/</a> which seems to be a lot easier to deploy with different themes</small>)
