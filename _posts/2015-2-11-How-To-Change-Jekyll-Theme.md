@@ -25,8 +25,9 @@ To use themes that are not included in Bootstrap (well, that's most of them) you
 Fork a new theme into your Git repository. Then clone it. I am choosing <a href="https://github.com/poole/hyde">Hyde</a> here, because that one goes well with Jekyll. Once done I took the following steps:
 
 <ul><li>Removed posts directory and Copied _posts from the old installation into the new directory. And delete any other posts that came along with the new theme.
-<li>Copy also the file about.md and the _config.yml</li> 
-<li>If you have made any more customisations, then copy those too into the new directory as well</li> 
+<li>Copy also the file about.md if you've changed that.</li> 
+<li>If you have made any more customisations, then copy those too into the new directory as well</li>
+<li>Edit the new _config.yml that came with your new theme to suite your needs</li>
 <li>Remove any custom stuff that came along with the new theme</li></ul>
 
 
