@@ -25,7 +25,9 @@ To use themes that are not included in Bootstrap (well, that's most of them) you
 So let's clone a new theme first, we're gonna take Hyde. Because that one goes well with Jekyll of course.
 <code>git clone https://github.com/poole/hyde</code>
 
-Then copy your _posts into the new directory. Copy also the file about.md and the _config.yml. If you have made any more customisations, then copy those too into the new directory. Check in your localhost if you've got it working, and see what else needs to be changed or customized. You probably have to remove some posts, and edit some other customized stuff in the sidebar or elsewhere.
+Then copy your _posts into the new directory. Copy also the file about.md and the _config.yml. If you have made any more customisations, then copy those too into the new directory. Check in your localhost if you've got it working, and see what else needs to be changed or customized. You probably have to remove some posts, and edit some other customized stuff in the sidebar or elsewhere. 
+
+Once everything is completed, 
 
 
 (<small>note: It is at this point that I encounter <a href="http://ruhoh.com/">http://ruhoh.com/</a> which seems to be a lot easier to deploy with different themes</small>)
